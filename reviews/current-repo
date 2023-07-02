@@ -1,0 +1,4 @@
+[review]
+    repo = gaby-ribeiro/.review-001
+    max-size = 4GB
+    max-reviews = 1000
